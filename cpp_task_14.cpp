@@ -39,13 +39,6 @@ int gcd(int a, int b)
     return a << k;
 }
 
-int encrypt(int x,int publicKey){
-
-}
-
-int decrypt(int x, int publicKey){
-
-}
 
 int main() {
     // Two (large) random prime numbers
